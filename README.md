@@ -32,11 +32,7 @@ The objective of this project is threefold:
 - Successfully reconstructed the employee database for Pewlett Hackard's employees from the 1980s and 1990s.
 - Identified key employee data points, including salary information, departmental assignments, and management structures.
 - Provided insights into hiring trends, departmental distributions, and commonality of employee last names.
-
-### Challenges and Solutions
-
-- **Data Integration:** Merging six disparate CSV files into a cohesive SQL database required careful planning and execution. The ERD played a crucial role in visualizing and implementing the database schema.
-- **Query Complexity:** Some of the analysis queries were complex, requiring joins across multiple tables. Strategic use of SQL functions and careful query planning ensured accurate and efficient data retrieval.
+Some of the analysis queries were complex, requiring joins across multiple tables. Strategic use of SQL functions and careful query planning ensured accurate and efficient data retrieval.
 
 ### Conclusion
 
